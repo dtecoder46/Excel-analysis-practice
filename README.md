@@ -8,12 +8,18 @@ https://docs.google.com/spreadsheets/d/1RileRKxbTyon_DrjjBtCNc5cLRyPFcht2xDQz95u
 
 The Excel file is also in this repo, but be sure to install the Office Viewer VSCode extension
 
+# Insights
+
+
+
 # Excel topics practiced
 
 1. concatenate()
 2. Filters
 3. Data Validation menu
 4. vlookup()
+5. "Merge sort"
+6. Conditional formatting
 
 # Sources/References
 
