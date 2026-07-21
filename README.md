@@ -1,6 +1,10 @@
 # Medicaid-Montgomery-County-Analysis
 
-A data analysis project analyzing a Data.gov dataset with records of the number of people in Montgomery County, MD who have enrolled in Medicaid/MHCP
+A data analysis project analyzing 2 datasets
+
+Dataset 1: Data.gov - Number of people enrolled in Medicaid/MCHP in Montgomery County
+
+Dataset 2: Government of Canada - Active wildfires in Canada 2026
 
 This is mainly an Excel practice project
 
@@ -24,6 +28,7 @@ The Excel file is also in this repo, but be sure to install the Office Viewer VS
 
 # Sources/References
 
-1. Dataset used: https://catalog.data.gov/dataset/medicaid-clients?from_hint=eyJzb3J0IjoicmVsZXZhbmNlIiwicSI6IiIsInNwYXRpYWxfZmlsdGVyIjoiIiwia2V5d29yZCI6ImhlYWx0aGNhcmUifQ%3D%3D
-2. Excel composite key: https://www.mrexcel.com/board/threads/composite-primary-kay-in-excel.1125277/
-3. Data Analysis in Excel guide: https://www.exceldemy.com/learn-excel/data-analysis/
+1. Dataset 1: https://catalog.data.gov/dataset/medicaid-clients?from_hint=eyJzb3J0IjoicmVsZXZhbmNlIiwicSI6IiIsInNwYXRpYWxfZmlsdGVyIjoiIiwia2V5d29yZCI6ImhlYWx0aGNhcmUifQ%3D%3D
+2. Dataset 2: https://cwfis.cfs.nrcan.gc.ca/en/catalogue/results/bd641635-d30d-4b77-abc0-d6b59b1e8a00
+3. Excel composite key: https://www.mrexcel.com/board/threads/composite-primary-kay-in-excel.1125277/
+4. Data Analysis in Excel guide: https://www.exceldemy.com/learn-excel/data-analysis/
