@@ -2,6 +2,8 @@
 
 A data analysis project analyzing a Data.gov dataset with records of the number of people in Montgomery County, MD who have enrolled in Medicaid/MHCP
 
+This is mainly an Excel practice project
+
 # Excel file
 
 https://docs.google.com/spreadsheets/d/1RileRKxbTyon_DrjjBtCNc5cLRyPFcht2xDQz95uh8Q/edit?usp=sharing
@@ -18,8 +20,7 @@ The Excel file is also in this repo, but be sure to install the Office Viewer VS
 2. Filters
 3. Data Validation menu
 4. vlookup()
-5. "Merge sort"
-6. Conditional formatting
+5. Conditional formatting
 
 # Sources/References
 
