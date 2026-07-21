@@ -8,11 +8,11 @@ Dataset 2: Government of Canada - Active wildfires in Canada 2026
 
 This is mainly an Excel practice project
 
-# Excel file
+# Excel files
 
-https://docs.google.com/spreadsheets/d/1RileRKxbTyon_DrjjBtCNc5cLRyPFcht2xDQz95uh8Q/edit?usp=sharing
+https://1drv.ms/f/c/32bb06a0664e6cb6/IgAJyI_wiwS4TLWbqMvs1BO_AZfcOuG22inyIY15fkgvFxo?e=sYRb3f
 
-The Excel file is also in this repo, but be sure to install the Office Viewer VSCode extension
+The Excel files are also in this repo, but be sure to install the Office Viewer VSCode extension
 
 # Insights
 
@@ -25,6 +25,7 @@ The Excel file is also in this repo, but be sure to install the Office Viewer VS
 3. Data Validation menu
 4. vlookup()
 5. Conditional formatting
+6. Pivot tables
 
 # Sources/References
 
