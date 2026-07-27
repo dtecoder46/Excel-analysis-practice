@@ -10,9 +10,9 @@ This is mainly an Excel practice project
 
 # Excel files
 
-https://1drv.ms/f/c/32bb06a0664e6cb6/IgAJyI_wiwS4TLWbqMvs1BO_AZfcOuG22inyIY15fkgvFxo?e=sYRb3f
-
-The Excel files are also in this repo, but be sure to install the Office Viewer VSCode extension
+The Excel files are in this repo. Here's how to view them
+1. Office Viewer VSCode extension
+2. Download and put the files into Excel, Google Sheets, LibreOffice, etc.
 
 # Insights
 
@@ -27,6 +27,7 @@ The Excel files are also in this repo, but be sure to install the Office Viewer 
 5. Conditional formatting
 6. Pivot tables
 7. Descriptive stats
+8. Charts
 
 # Sources/References
 
