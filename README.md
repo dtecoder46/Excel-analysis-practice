@@ -37,3 +37,4 @@ The Excel files are in this repo. Here's how to view them
 4. Data Analysis in Excel guide: https://www.exceldemy.com/learn-excel/data-analysis/
 5. Descriptive stats parameters reference: https://trumpexcel.com/descriptive-statistics-excel/
 6. Range: https://en.wikipedia.org/wiki/Range_(statistics)
+7. SUMIF: https://support.microsoft.com/en-us/excel/functions/sumif-function
