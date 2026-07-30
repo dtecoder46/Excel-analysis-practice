@@ -41,3 +41,4 @@ The Excel files are in this repo. Here's how to view them
 8. Shapiro-Wilk: https://community.lumivero.com/s/article/6538-shapiro-wilk-and-other-normality-tests-excel?language=en_US
 9. Interpreting ANOVA: https://support.minitab.com/en-us/minitab/help-and-how-to/statistical-modeling/anova/how-to/one-way-anova/interpret-the-results/key-results/
 10. Gemma-2b via Ollama
+11. Standard deviation: https://www.nlm.nih.gov/oet/ed/stats/02-900.html
